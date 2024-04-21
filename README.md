@@ -1,1 +1,1 @@
-Pattern Builder | Atividade de Arquitetura de Software
+Pattern Observer | Atividade de Arquitetura de Software
